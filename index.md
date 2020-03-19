@@ -1,4 +1,4 @@
-## Lockdown List
+3## Lockdown List
 
 I've decided to make this list for people who pay for things like Netflix and Disney+ etc. But, the thing is, these platforms are:
 
@@ -14,5 +14,5 @@ I use two different AdBlockers on my devices, which are:
 1. uBlock Origin for Chrome Desktop
 2. AdGuard for my Samsung Galaxy S9
 
-#### uBlock Origin
-To install uBlock, go to the following link
+#### uBlock Origin for Desktop
+To install uBlock Origin, [click this link](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en-GB)
