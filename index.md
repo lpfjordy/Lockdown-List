@@ -1,34 +1,18 @@
 ## Lockdown List
 
+I've decided to make this list for people who pay for things like Netflix and Disney+ etc. But, the thing is, these platforms are:
 
-### Markdown
+1. Expensive, especially when you have to pay for 2-3 services.
+2. Limited in content.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So, this list is a guide to the **free** Apps and Websites that I use day-to-day to watch all the same shows as everyone else. I will try to cover as much as possible in the list. 
 
-```markdown
-Syntax highlighted code block
+### Setup
+The first thing you'll need is an AdBlocker. Whether you're on a Phone or a Computer, AdBlockers will change your life! 
+I use two different AdBlockers on my devices, which are: 
 
-# Header 1
-## Header 2
-### Header 3
+1. uBlock Origin for Chrome Desktop
+2. AdGuard for my Samsung Galaxy S9
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lpfjordy/Lockdown-List/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### uBlock Origin
+To install uBlock, go to the following link
